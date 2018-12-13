@@ -1,2 +1,2 @@
 # CollaShare
-Streaming, Sharing &amp; cCaborating
+Streaming, Sharing &amp; Collaborating
